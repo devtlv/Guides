@@ -26,7 +26,7 @@ Copy it !
 
 In Git Kraken, select `Clone a repo`.
 
-![kraken_clone](files\kraken_clone.png)
+![kraken_clone](files/kraken_clone.png)
 
 
 
@@ -44,7 +44,7 @@ Fill those fields:
 
 (3) Clone !
 
-![kraken_clone2](files\kraken_clone2.png)
+![kraken_clone2](files/kraken_clone2.png)
 
 
 
@@ -54,7 +54,7 @@ Navigate with your file explorer to the folder.
 
 > You can hit *Alt+o* to open it directly
 
-![navigate](files\navigate.png)
+![navigate](files/navigate.png)
 
 
 
@@ -68,7 +68,7 @@ Modify/Create the files and finish the exercise
 
 Click "View Change" on the Git Kraken.
 
-![after_ex_view_change](files\after_ex_view_change.png)
+![after_ex_view_change](files/after_ex_view_change.png)
 
 
 
@@ -76,7 +76,7 @@ Click "View Change" on the Git Kraken.
 
 You can click "Stage" on the files you want to upload, or "Stage all changes" to upload everything.
 
-![stage_files](files\stage_files.png)
+![stage_files](files/stage_files.png)
 
 
 
@@ -84,7 +84,7 @@ You can click "Stage" on the files you want to upload, or "Stage all changes" to
 
 Save your changes to your repository, add a comment and click "Commit changes to files"
 
-![commit](files\commit.png)
+![commit](files/commit.png)
 
 
 
@@ -92,4 +92,4 @@ Save your changes to your repository, add a comment and click "Commit changes to
 
 To update the remote repository, click "Push"
 
-![push](files\push.png)
+![push](files/push.png)
